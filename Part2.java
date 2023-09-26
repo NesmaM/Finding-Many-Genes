@@ -1,7 +1,7 @@
 
 /**
  * @author (Nesma Abouzaid) 
- * @version (6/20/2023)
+ * @version (6/26/2023)
  */
 public class Part2 {    
     public int howMany(String stringa, String stringb){
